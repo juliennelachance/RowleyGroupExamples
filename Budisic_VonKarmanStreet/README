@@ -1,0 +1,6 @@
+The data in the .mat file is a flow past cylinder, computed by Lattice Boltzmann technique, implemented by FlowKit Inc. 
+The example code comes from Marko Budisic of the Department of Mathematics at Clarkson University.
+His GitHub description and other examples can be found here: https://github.com/mbudisic/koopman
+
+Data file: VonKarmanStreet.mat
+Python visualization: Budisic_VonKarmanStreet_ex.py
