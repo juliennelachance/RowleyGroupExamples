@@ -1,0 +1,15 @@
+The Python code in this folder is courtesy of Hao Zhang, 
+and was used to demonstrate his Online DMD work, to be found in:
+
+ Hao Zhang, Clarence W. Rowley, Eric A. Deem, and Louis N. Cattafesta,
+    "Online Dynamic Mode Decomposition for Time-varying Systems,"
+    arXiv preprint arXiv:1707.02876, 2017.
+
+
+Per Hao, this example is: 
+"An example to demonstrate online dynamic mode decomposition
+
+We take a 2D time varying system given by dx/dt = A(t)x
+where x = [x1,x2]', A(t) = [0,w(t);-w(t),0], 
+w(t)=1+epsilon*t, epsilon=0.1. The slowly time varying eigenvlaues of A(t)
+are pure imaginary, +(1+0.1t)j and -(1+0.1t)j, where j is the imaginary unit."
