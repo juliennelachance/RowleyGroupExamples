@@ -1,0 +1,8 @@
+This folder contains one of the "normal" heartbeat samples (i.e., lacking known anomalies), normal_test.wav,
+from Kaggle's Heartbeat Sounds challenge: 
+https://www.kaggle.com/kinguistics/heartbeat-sounds
+
+Also included are examples of how to take these .wav files and store them as .mat files: store_wav.py
+as well as an example of how to use the .mat file: reader_test.py
+
+Applying DMD to this data should essentially give the same as an FFT.
