@@ -1,0 +1,7 @@
+The .mat file contains sunspot observation data, extracted from Dr. David Hathaway's "butterfly diagram" data, found at:
+https://solarscience.msfc.nasa.gov/greenwch.shtml
+
+The data as stored as a 50x1907 array, with the 50 bins representing Sine(Solar Latitude) 
+  and 1907 snapshots in Carrington Rotation Number: sunspot_data.mat 
+  
+An example file for processing this data in Python is included. 
