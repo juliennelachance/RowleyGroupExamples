@@ -1,0 +1,6 @@
+This folder contains a collection of examples from Tu et. al., 2014, implemented in Python. 
+
+Please refer to the following paper for a more complete description of the examples:
+On Dynamic Mode Decomposition: Theory and Applications
+Jonathan H. Tu, Clarence W. Rowley, Dirk M. Luchtenburg, Steven L. Brunton, J. Nathan Kutz
+ 	J.Comput. Dyn. 1(2):391-421 (2014)
