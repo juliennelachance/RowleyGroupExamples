@@ -1,4 +1,5 @@
 This folder contains a collection of examples from Tu et. al., 2014, implemented in Python. 
+DMD can be applied to verify the results described in the paper.
 
 Please refer to the following paper for a more complete description of the examples:
 On Dynamic Mode Decomposition: Theory and Applications
